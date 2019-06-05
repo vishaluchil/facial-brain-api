@@ -1,2 +1,2 @@
-# smart-brain-api
-Api for the smart-brain facial recognition app
+# facial-brain-api
+Api for the facial-brain facial recognition app
